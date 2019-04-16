@@ -13,7 +13,6 @@ Globals:
 Parameters:
   NotificationSMS:
     Type: String
-    Default: +61410451527
 
 Resources:
   WodifyNotifyFunction:
